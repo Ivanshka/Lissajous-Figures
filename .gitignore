@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+.vs
+Debug
+Release
+Release without console
+Lissajous Figures/Debug
+Lissajous Figures/Release
+Lissajous Figures/Release without console
+*.aps
+*.log
+*.iobj
+*.ipdb
+*.ilk
